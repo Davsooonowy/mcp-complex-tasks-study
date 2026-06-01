@@ -6,3 +6,10 @@ dependencies = [
     "python-dotenv>=1.2.2",
     "smolagents[mcp,openai]>=1.24.0",
 ]
+
+[dependency-groups]
+dev = ["pytest>=8.0"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["vulnerability_agent/tests"]
