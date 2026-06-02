@@ -270,3 +270,5 @@ cython_debug/
 #.idea/
 
 vulnerability_agent/results/*.jsonl
+
+_run_sweep.py
