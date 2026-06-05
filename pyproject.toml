@@ -1,6 +1,7 @@
 [project]
-name = "weather-mcp-agent"
+name = "mcp-complex-tasks-study"
 version = "0.1.0"
+description = "Badanie możliwości wykonywania złożonych zadań z wykorzystaniem agentów AI i protokołu MCP"
 requires-python = ">=3.13"
 dependencies = [
     "python-dotenv>=1.2.2",
