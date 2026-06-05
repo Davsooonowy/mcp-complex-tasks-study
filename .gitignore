@@ -275,3 +275,4 @@ _run_sweep.py
 
 # Wewnętrzne artefakty procesu (brainstorm/spec/plan) — nie do repo
 docs/superpowers/
+_run_loc.py
