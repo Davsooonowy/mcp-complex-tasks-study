@@ -271,9 +271,6 @@ cython_debug/
 
 vulnerability_agent/results/*.jsonl
 
-_run_sweep.py
 
 # Wewnętrzne artefakty procesu (brainstorm/spec/plan) — nie do repo
 docs/superpowers/
-_run_loc.py
-_run_conflict.py
