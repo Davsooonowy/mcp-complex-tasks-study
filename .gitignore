@@ -274,3 +274,6 @@ vulnerability_agent/results/*.jsonl
 
 # Wewnętrzne artefakty procesu (brainstorm/spec/plan) — nie do repo
 docs/superpowers/
+
+# Artefakty pytorch-lightning (poza tym badaniem)
+lightning_logs/

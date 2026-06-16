@@ -4,8 +4,13 @@ version = "0.1.0"
 description = "Badanie możliwości wykonywania złożonych zadań z wykorzystaniem agentów AI i protokołu MCP"
 requires-python = ">=3.13"
 dependencies = [
+    "ipykernel>=7.2.0",
+    "matplotlib>=3.10.9",
+    "neuralforecast>=3.1.9",
+    "pandas>=3.0.3",
     "python-dotenv>=1.2.2",
     "smolagents[mcp,openai]>=1.24.0",
+    "statsmodels>=0.14.6",
 ]
 
 [dependency-groups]
